@@ -1,5 +1,7 @@
 # BAIT - Biofilm Architecture Inference Tool
 
+Update 9/17/20: A new version of BAIT, which we call BAIT-T, is being developed. Pending review, the full version will be available shortly.
+
 BAIT is a image analysis software program that can be used to quantify the architecture of oral multi-species biofilms. BAIT can calculate a variety of features, such as surface area, fluffiness, connectivity, and convex hull porosity. For more information about BAIT, please see:
 
 Luo et al. 2019. Introducing BAIT (Biofilm Architecture Inference Tool): a software program to evaluate the architecture of oral multi-species biofilms. Microbiology, in press.
